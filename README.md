@@ -1,6 +1,6 @@
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Becoming%20a%20BE%20Developer!&fontAlign=40&fontSize=50&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=To%20be%20a%20BE%20Developer.&fontAlign=40&fontSize=50&fontAlignY=40&color=gradient)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faki2632%2Fhit-counter&count_bg=%2399CCFF&title_bg=%23000000&icon=bilibili.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
