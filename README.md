@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faki2632%2Fhit-counter&count_bg=%2399CCFF&title_bg=%23000000&icon=bilibili.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-### 🙇 안녕하세요, BE Programmer로 성장해나가고 있는 이수민입니다!
+### 🙇 안녕하세요, BE Developer로 성장해나가고 있는 이수민입니다!
 <br/>
 <!-- Body -->
 
