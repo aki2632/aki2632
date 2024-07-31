@@ -9,7 +9,7 @@
 <!-- Body -->
 
 ### 🦾 Skills
-**🧑‍💻 Lang and Frameworks**
+**🖥️ Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ![java](https://img.shields.io/badge/java-ff9900.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
@@ -27,22 +27,22 @@
 ### 🚌 Top Langs & Algorithm
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://github.com/aki2632/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aki2632&layout=pie" alt="Top Langs" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <table>
         <tr>
-          <td align="center">
+          <td align="center" style="border: none;">
             <a href="https://solved.ac/aki2632">
               <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aki2632" alt="Solved.ac 프로필" />
             </a>
           </td>
         </tr>
         <tr>
-          <td align="center">
+          <td align="center" style="border: none;">
             <a href="https://github-readme-stats.vercel.app/api?username=aki2632&show_icons=true&theme=radical">
               <img src="https://github-readme-stats.vercel.app/api?username=aki2632&show_icons=true&theme=radical" alt="GitHub stats" />
             </a>
