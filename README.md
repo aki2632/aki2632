@@ -25,24 +25,24 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=black)
 
 ### 🚌 Top Langs & Algorithm
-<table>
+<table style="border: none;">
   <tr>
-    <td align="center" style="border: none;">
+    <td style="border: none;" align="center">
       <a href="https://github.com/aki2632/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aki2632&layout=pie" alt="Top Langs" />
       </a>
     </td>
-    <td align="center" style="border: none;">
-      <table>
+    <td style="border: none;" align="center">
+      <table style="border: none;">
         <tr>
-          <td align="center" style="border: none;">
+          <td style="border: none;" align="center">
             <a href="https://solved.ac/aki2632">
               <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aki2632" alt="Solved.ac 프로필" />
             </a>
           </td>
         </tr>
         <tr>
-          <td align="center" style="border: none;">
+          <td style="border: none;" align="center">
             <a href="https://github-readme-stats.vercel.app/api?username=aki2632&show_icons=true&theme=radical">
               <img src="https://github-readme-stats.vercel.app/api?username=aki2632&show_icons=true&theme=radical" alt="GitHub stats" />
             </a>
