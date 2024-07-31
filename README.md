@@ -58,5 +58,3 @@
     </td>
   </tr>
 </table>
-
-**Thank you for visiting my profile!**
