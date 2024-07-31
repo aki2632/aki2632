@@ -5,8 +5,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faki2632%2Fhit-counter&count_bg=%2399CCFF&title_bg=%23000000&icon=bilibili.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ### 🙇 안녕하세요, BE Programmer로 성장해나가고 있는 이수민입니다!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aki2632&layout=compact)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/profile/______)
 <br/>
 <!-- Body -->
 
@@ -25,3 +23,34 @@
 ![eclipse](https://img.shields.io/badge/eclipse-1a1632.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=black)
+
+### 🚌 Top Langs & Algorithm
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/aki2632/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aki2632&layout=pie" alt="Top Langs" />
+      </a>
+    </td>
+    <td align="center">
+      <table>
+        <tr>
+          <td align="center">
+            <a href="https://solved.ac/aki2632">
+              <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aki2632" alt="Solved.ac 프로필" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://github-readme-stats.vercel.app/api?username=aki2632&show_icons=true&theme=radical">
+              <img src="https://github-readme-stats.vercel.app/api?username=aki2632&show_icons=true&theme=radical" alt="GitHub stats" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+**Thank you for visiting my profile!**
