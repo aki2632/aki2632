@@ -42,8 +42,6 @@
       <table style="border: none;">
         <tr>
           <td style="border: none;" align="center">
-            <a href="https://solved.ac/aki2632">
-              <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aki2632" alt="Solved.ac 프로필" />
             </a>
           </td>
         </tr>
